@@ -26,6 +26,8 @@ import android.support.v14.preference.PreferenceFragment;
 import android.preference.PreferenceActivity;
 import android.view.MenuItem;
 
+import org.candy.support.preferences.CustomSeekBarPreference;
+
 public class DozeSettings extends PreferenceActivity implements PreferenceFragment.OnPreferenceStartFragmentCallback {
 
     @Override
